@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 ## Dynamic Programming
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
