@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Matrix
 |  |
 | ------- |
