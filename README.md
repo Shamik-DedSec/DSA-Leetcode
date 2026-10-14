@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0120-triangle) |
 | [0239-sliding-window-maximum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0741-cherry-pickup](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0120-triangle) |
+| [0741-cherry-pickup](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0741-cherry-pickup](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## String
 |  |
