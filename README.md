@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
