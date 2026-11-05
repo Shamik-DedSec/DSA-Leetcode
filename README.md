@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0741-cherry-pickup](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
