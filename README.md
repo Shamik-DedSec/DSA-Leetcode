@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0120-triangle) |
@@ -103,5 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
