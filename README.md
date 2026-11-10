@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0856-score-of-parentheses](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
