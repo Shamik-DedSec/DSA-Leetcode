@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Queue
 |  |
 | ------- |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
