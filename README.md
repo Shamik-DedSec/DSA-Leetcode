@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0856-score-of-parentheses](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0067-add-binary) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -116,5 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0067-add-binary) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
