@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -106,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Quicksort
 |  |
 | ------- |
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0067-add-binary) |
+## Prefix Sum
+|  |
+| ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
