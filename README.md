@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
