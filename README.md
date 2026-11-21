@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0856-score-of-parentheses](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1154-day-of-the-year](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1154-day-of-the-year) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0067-add-binary) |
+| [1154-day-of-the-year](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1154-day-of-the-year) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
 |  |
