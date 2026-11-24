@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0741-cherry-pickup](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0067-add-binary) |
 | [1154-day-of-the-year](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1154-day-of-the-year) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
 |  |
@@ -137,6 +139,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
