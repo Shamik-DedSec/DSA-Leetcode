@@ -131,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0067-add-binary) |
 | [1154-day-of-the-year](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1154-day-of-the-year) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3360-stone-removal-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/0067-add-binary) |
+| [3360-stone-removal-game](https://github.com/Shamik-DedSec/DSA-Leetcode/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
